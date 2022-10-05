@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Linux and Shell
+This is about shell
