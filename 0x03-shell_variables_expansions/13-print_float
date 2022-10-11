@@ -1,2 +1,2 @@
 #!/bin/bash
-0.00
+printf "%.2f \n" $num=8
