@@ -1,1 +1,1 @@
-This is about shell
+This is a project on Shell Variable expansion
